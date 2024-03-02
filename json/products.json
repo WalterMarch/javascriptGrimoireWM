@@ -1,0 +1,15 @@
+{
+    "Sony": [
+        {"ProductID": "1", "ProductName": "LED TV"},
+        {"ProductID": "2", "ProductName": "Laptop"},
+        {"ProductID": "3", "ProductName": "Phones"}
+    ],
+    "Panasonic": [
+        {"ProductID": "4", "ProductName": "Camera"},
+        {"ProductID": "5", "ProductName": "Microwave"}
+    ],
+    "Samsung": [
+        {"ProductID": "6", "ProductName": "Refrigerator"},
+        {"ProductID": "7", "ProductName": "Washing Machine"}
+    ]
+}
