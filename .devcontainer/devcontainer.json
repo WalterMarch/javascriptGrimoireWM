@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.241.1/containers/javascript-node
 {
-	"name": "devcontainerNodejsWM",
+	"name": "javascriptGrimoireWM",
 	// [Choice] Node.js version (use -bullseye variants on local arm64/Apple Silicon): 18, 16, 14, 18-bullseye, 16-bullseye, 14-bullseye, 18-buster, 16-buster, 14-buster
 	"image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-16-buster",
 	// Configure tool-specific properties.
